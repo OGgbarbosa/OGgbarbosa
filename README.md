@@ -22,7 +22,7 @@ Minha experiência combina **dados, planejamento e engenharia**, conectando nece
 
 ### Engenharia de Dados
 
-`Python` `Pandas` `NumPy` `SQL` `ETL` `ELT` `Data Pipelines`
+`Python` `Pandas` `SQL` `ETL` `ELT` `Data Pipelines`
 
 ### Cloud & Big Data
 
@@ -46,7 +46,8 @@ Minha experiência combina **dados, planejamento e engenharia**, conectando nece
 
 ### 🔐 ETL — ITI ICP-Brasil
 
-Projeto de Engenharia de Dados focado na extração, transformação e estruturação de dados públicos relacionados ao ICP-Brasil.
+Projeto de Engenharia de Dados focado na extração,
+transformação e estruturação de dados públicos relacionados ao ICP-Brasil.
 
 **Tecnologias:** Python · ETL · Processamento de dados · Automação
 
@@ -54,7 +55,8 @@ Projeto de Engenharia de Dados focado na extração, transformação e estrutura
 
 ### ⚡ ETL — Emendas | Databricks
 
-Projeto de ETL desenvolvido para explorar conceitos de processamento de dados utilizando **Databricks e PySpark**.
+Projeto de ETL desenvolvido para explorar conceitos de
+processamento de dados utilizando Databricks e PySpark.
 
 **Tecnologias:** PySpark · Databricks · ETL · Big Data
 
@@ -64,13 +66,11 @@ Projeto de ETL desenvolvido para explorar conceitos de processamento de dados ut
 
 ## 📈 Minha jornada em Engenharia de Dados
 
-Minha transição para Engenharia de Dados vem sendo construída por meio de **projetos práticos e automações aplicadas a problemas reais**.
-
-Minha experiência começou mais próxima de **análise de dados, planejamento operacional e Business Intelligence**, evoluindo progressivamente para o desenvolvimento de pipelines e soluções de engenharia.
+Minha trajetória combina **análise de dados, planejamento e engenharia**, evoluindo da construção de análises e automações para o desenvolvimento de pipelines e soluções de dados em Cloud.
 
 **Dados Brutos → Ingestão → Transformação → Validação → Armazenamento → Modelagem → Analytics**
 
-Meu objetivo é construir processos de dados **automatizados, confiáveis, reproduzíveis e que gerem valor para o negócio**.
+Meu objetivo é construir processos de dados **automatizados, confiáveis e que gerem valor para o negócio**.
 
 ---
 
