@@ -44,12 +44,12 @@ Minha experiência combina **dados, planejamento e engenharia**, conectando nece
 
 ## 🚀 Projetos em destaque
 
-### 🔐 ETL — ITI ICP-Brasil
+### 🔐 ETL — ITI ICP-Brasil | Databricks
 
 Projeto de Engenharia de Dados focado na extração,
 transformação e estruturação de dados públicos relacionados ao ICP-Brasil.
 
-**Tecnologias:** Python · ETL · Processamento de dados · Automação
+**Tecnologias:** Python · ETL · Processamento de dados · Automação · PySpark · Databricks · Big Data
 
 🔗 [Ver repositório](https://github.com/OGgbarbosa/etl-iti-icp-brasil)
 
