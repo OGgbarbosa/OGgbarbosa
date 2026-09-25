@@ -1,6 +1,6 @@
 # Gabriel Barbosa
 
-### Engenheiro de Dados Jr. | Python · SQL · GCP · ETL/ELT
+### Engenheiro de Dados | Python · SQL · GCP · ETL/ELT
 
 Em transição para **Engenharia de Dados.** focado na construção de pipelines, automação de processos e transformação de dados em soluções confiáveis para análise e tomada de decisão.
 
