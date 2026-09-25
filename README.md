@@ -2,7 +2,7 @@
 
 ### Engenheiro de Dados Jr. | Python · SQL · GCP · ETL/ELT
 
-Sou **Engenheiro de Dados Jr.** focado na construção de pipelines, automação de processos e transformação de dados em soluções confiáveis para análise e tomada de decisão.
+Em transição para **Engenharia de Dados.** focado na construção de pipelines, automação de processos e transformação de dados em soluções confiáveis para análise e tomada de decisão.
 
 Minha experiência combina **dados, planejamento e engenharia**, conectando necessidades de negócio a soluções técnicas.
 
